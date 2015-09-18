@@ -10,7 +10,7 @@ namespace Actividad3
 		{ 
 			return new ContentPage { 
 				Content = new Label {
-					Text = "Hola, Formas !   ",
+					Text = "Hola Formas!",
 					VerticalOptions = LayoutOptions.End  ,
 					HorizontalOptions = LayoutOptions.StartAndExpand   ,
 					TextColor = Color.Green,
